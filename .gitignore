@@ -1,0 +1,28 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+__pycache__/
+*.py[cod]
+
+# Research artifacts that must not be published
+*.bin
+*.elf
+*.zip
+*.rar
+*.7z
+*.exe
+*.dll
+*.sys
+*.apk
